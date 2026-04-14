@@ -43,4 +43,4 @@ python FirstGame01.py
 - 学習・練習目的のため、構成はシンプルです。
 
 ## Author
-Songwen Deng
+鄧淞文
